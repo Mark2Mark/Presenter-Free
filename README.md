@@ -2,6 +2,8 @@
 
 This is a plugin for the [Glyphs font editor](http://glyphsapp.com/).
 
+Get [👉the PRO version with tons of features 👈](https://markfromberg.com/projects/presenter/)
+
 Get more cool [👉 GlyphsApp Plugins here 👈](https://markfromberg.com/shop/)
 
 ### How to use
