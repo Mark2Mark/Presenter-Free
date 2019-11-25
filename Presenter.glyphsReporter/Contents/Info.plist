@@ -41,7 +41,7 @@
 	<key>NSPrincipalClass</key>
 	<string>Presenter</string>
 	<key>UpdateFeedURL</key>
-	<string>https://github.com/Mark2Mark/Presenter-Free/Presenter.glyphsReporter/Contents/Info.plist</string>
+	<string>https://github.com/Mark2Mark/Presenter-Free/blob/master/Presenter.glyphsReporter/Contents/Info.plist</string>
 	<key>productPageURL</key>
 	<string>https://markfromberg.com/shop/</string>
 	<key>productReleaseNotes</key>
