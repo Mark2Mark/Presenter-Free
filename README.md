@@ -11,6 +11,9 @@ Install via the GlyphsApp Plugin Manager and you’re ready to go.
 <img src="https://raw.githubusercontent.com/Mark2Mark/__REPO__/master/__image__.gif" alt="Arrange Windows" height="">
 </p>
 
+
+---
+
 ##### License
 
 Copyright 2019 [Mark Frömberg](http://www.markfromberg.com/) *@Mark2Mark*
