@@ -2,7 +2,7 @@
 
 This is a plugin for the [Glyphs font editor](http://glyphsapp.com/).
 
-Get more cool [Plugins at](https://markfromberg.com/shop/).
+Get more cool [👉 GlyphsApp Plugins here 👈](https://markfromberg.com/shop/)
 
 ### How to use
 
