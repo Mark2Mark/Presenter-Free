@@ -17,17 +17,17 @@ Presenter Free
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Mark2Mark/Presenter-Free/master/images/Presenter-001-markFromberg.png" alt="Presenter Pro" height="">
-Get [👉the PRO version with tons of features 👈](https://markfromberg.com/projects/presenter/)
+<a href="https://markfromberg.com/projects/presenter/">Presenter Pro</a>
 </p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Mark2Mark/Presenter-Free/master/images/Presenter-003-markFromberg.png" alt="Presenter Pro" height="">
-[Presenter Pro](https://markfromberg.com/projects/presenter/)
+<a href="https://markfromberg.com/projects/presenter/">Presenter Pro</a>
 </p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Mark2Mark/Presenter-Free/master/images/Presenter-002-markFromberg.png" alt="Presenter Pro" height="">
-[Presenter Pro](https://markfromberg.com/projects/presenter/)
+<a href="https://markfromberg.com/projects/presenter/">Presenter Pro</a>
 </p>
 
 
