@@ -26,7 +26,7 @@ Presenter Free
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Mark2Mark/Presenter-Free/master/images/Presenter-002-markFromberg.png" alt="Presenter Pro" height="">
+<img src="https://raw.githubusercontent.com/Mark2Mark/Presenter-Free/master/images/Presenter-002-markFromberg.jpg" alt="Presenter Pro" height="">
 <a href="https://markfromberg.com/projects/presenter/">Presenter Pro</a>
 </p>
 
