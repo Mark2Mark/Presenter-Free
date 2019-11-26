@@ -10,7 +10,8 @@ Get more cool [👉 GlyphsApp Plugins here 👈](https://markfromberg.com/shop/)
 
 Install via the GlyphsApp Plugin Manager and you’re ready to go.
 <p align="center">
-<img src="https://raw.githubusercontent.com/Mark2Mark/Presenter-Free/master/images/Presenter-001-markFromberg.png" alt="Arrange Windows" height="">
+<img src="https://raw.githubusercontent.com/Mark2Mark/Presenter-Free/master/images/Presenter-001-markFromberg.png" alt="Presenter Pro" height="">
+Presenter Pro
 </p>
 
 
