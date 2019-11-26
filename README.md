@@ -17,7 +17,7 @@ Presenter Free
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Mark2Mark/Presenter-Free/master/images/Presenter-001-markFromberg.png" alt="Presenter Pro" height="">
-[Presenter Pro](https://markfromberg.com/projects/presenter/)
+Get [👉the PRO version with tons of features 👈](https://markfromberg.com/projects/presenter/)
 </p>
 
 <p align="center">
