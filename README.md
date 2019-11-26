@@ -9,9 +9,25 @@ Get more cool [👉 GlyphsApp Plugins here 👈](https://markfromberg.com/shop/)
 ### How to use
 
 Install via the GlyphsApp Plugin Manager and you’re ready to go.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Mark2Mark/Presenter-Free/master/images/Presenter-004-markFromberg.png" alt="Presenter Pro" height="">
+Presenter Free
+</p>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/Mark2Mark/Presenter-Free/master/images/Presenter-001-markFromberg.png" alt="Presenter Pro" height="">
-Presenter Pro
+[Presenter Pro](https://markfromberg.com/projects/presenter/)
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Mark2Mark/Presenter-Free/master/images/Presenter-003-markFromberg.png" alt="Presenter Pro" height="">
+[Presenter Pro](https://markfromberg.com/projects/presenter/)
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Mark2Mark/Presenter-Free/master/images/Presenter-002-markFromberg.png" alt="Presenter Pro" height="">
+[Presenter Pro](https://markfromberg.com/projects/presenter/)
 </p>
 
 
